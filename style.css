@@ -1,0 +1,118 @@
+body {
+  margin: 0 auto;
+}
+
+#topbar {
+  width: 1000px;
+  margin: 0 auto;
+  height: 40px;
+}
+
+#logo {
+  margin: 8px;
+  float: left;
+  margin-right: 8px;
+}
+
+.section {
+  float: left;
+  border-left: 0.5px #cccccc solid;
+  height: 100%;
+}
+
+#account-image {
+  margin: 10px 12px;
+  float: left;
+}
+
+#account {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  float: left;
+  margin-top: 16px;
+  font-weight: bold;
+}
+
+#squiggle {
+  height: 35px;
+  margin-left: 50px;
+  top: -5px;
+}
+
+#bell {
+  width: 40px;
+  height: 40px;
+  float: left;
+}
+
+#news {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  float: left;
+  margin: 16px;
+  font-weight: bold;
+}
+
+#sport {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  float: left;
+  margin: 16px;
+  font-weight: bold;
+}
+
+#weather {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  float: left;
+  margin: 16px;
+  font-weight: bold;
+}
+
+#iplayer {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  float: left;
+  margin: 16px;
+  font-weight: bold;
+}
+
+#sounds {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  float: left;
+  margin: 16px;
+  font-weight: bold;
+}
+
+#more {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  float: left;
+  margin: 16px;
+  font-weight: bold;
+}
+
+#arrow {
+  height: 5px;
+  width: 9px;
+  margin-left: 30px;
+  margin-top: 20px;
+  padding-right: 10px;
+}
+input {
+  background-color: #e4e4e4;
+  border: none;
+  font-weight: bold;
+  padding: 5px;
+  height: 20px;
+  width: 160px;
+  margin: 10px 0px 10px 10px;
+  float: left;
+}
+
+#magnify {
+  height: 20px;
+  width: 20px;
+  margin-top: 10px;
+}
