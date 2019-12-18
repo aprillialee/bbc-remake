@@ -1,2 +1,2 @@
 # bbc-remake
-A remake of the BBC website
+A funky remake of the BBC News Homepage
