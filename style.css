@@ -363,3 +363,77 @@ input {
   float: left;
   margin-left: 14px;
 }
+
+#headline-container {
+  margin-top: 10px;
+  margin-left: 145px;
+  width: 780px;
+  height: 280px;
+}
+
+#boris-sad {
+  height: 280px;
+  float: right;
+}
+
+#headline-div {
+  width: 280px;
+  float: left;
+  height: 100px;
+  padding-bottom: 15px;
+}
+
+#headline {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+#headline-text {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #5b5b5b;
+}
+
+#live-pic {
+  width: 43px;
+  height: 15px;
+  margin-top: 15px;
+}
+
+#live-text {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444444;
+  font-size: 12px;
+  font-weight: bold;
+  float: right;
+  margin-top: 16px;
+  margin-right: 35px;
+}
+
+.bullet {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: black;
+  margin-top: 18px;
+}
+
+#story {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444444;
+  font-size: 12px;
+  font-weight: bold;
+  float: right;
+  margin-top: -10px;
+  margin-right: 185px;
+}
+
+#guide {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444444;
+  font-size: 12px;
+  font-weight: bold;
+  float: left;
+  margin-top: -9px;
+  margin-left: 18px;
+}
