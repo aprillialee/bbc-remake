@@ -117,27 +117,37 @@ input {
   margin-top: 10px;
 }
 
-#redbar1 {
-  height: 45px;
-  width: 100%;
-  background-color: #bb1a19;
-  margin: 0 auto;
+.clear {
+  clear: both;
 }
 
-#red-news {
-  font-size: 40px;
-  font-family: Arial, Helvetica, sans-serif;
-  color: white;
-  margin-left: -98px;
-  margin-top: 8px;
+#red-news-container {
+  background-color: #bb1a19;
+  width: 100%;
+  height: 50px;
+  padding: 1px;
   float: left;
 }
 
-#redbar2 {
-  height: 45px;
-  width: 100%;
+#red-news {
+  color: white;
+  font-size: 43px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 145px;
+  float: left;
+  margin-top: 8px;
+}
+
+#red-menu-container {
   background-color: #bb1a19;
+  width: 100%;
+  height: 40px;
+}
+
+#red-menu-bar {
+  width: 1000px;
   margin: 0 auto;
+  height: 40px;
 }
 
 #red-home {
@@ -145,21 +155,211 @@ input {
   color: white;
   font-size: 15px;
   float: left;
-  margin-top: 20px;
-  margin-left: -119px;
+  margin-left: 14px;
+  margin-top: 12px;
 }
 
-#whitebar {
-  height: 3px;
-  width: 55px;
+#white-bar {
+  margin-left: -45px;
+  margin-top: 36px;
+  width: 54px;
+  height: 4px;
   background-color: white;
   float: left;
-  margin-left: -123px;
-  margin-top: 42px;
+}
+
+.section2 {
+  border-left: 0.5px #cccccc solid;
+  height: 40%;
+  float: left;
+  margin-top: 13px;
+  margin-left: 0.5px;
 }
 
 #fk {
   float: left;
-  font-size: 20px;
-  margin-left: -50px;
+  margin-left: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 15px;
+  padding-right: 10px;
+}
+
+#universe {
+  float: left;
+  margin-left: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 15px;
+  padding-right: 10px;
+}
+
+#business {
+  float: left;
+  margin-left: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 15px;
+  padding-right: 10px;
+}
+
+#politics {
+  float: left;
+  margin-left: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 15px;
+  padding-right: 10px;
+}
+
+#tech {
+  float: left;
+  margin-left: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 15px;
+  padding-right: 10px;
+}
+
+#science {
+  float: left;
+  margin-left: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 15px;
+  padding-right: 10px;
+}
+
+#health {
+  float: left;
+  margin-left: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 15px;
+  padding-right: 10px;
+}
+
+#fe {
+  float: left;
+  margin-left: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 15px;
+  padding-right: 10px;
+}
+
+#ea {
+  float: left;
+  margin-left: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 15px;
+  padding-right: 10px;
+}
+
+#stories {
+  float: left;
+  margin-left: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 15px;
+  padding-right: 10px;
+}
+
+#more2 {
+  float: left;
+  margin-left: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 15px;
+  padding-right: 10px;
+}
+
+#arrow2 {
+  float: left;
+  width: 10px;
+  height: 8px;
+  margin-top: 5.5px;
+}
+
+#white-bar-container {
+  background-color: white;
+  width: 100%;
+  height: 40px;
+}
+
+#white-menu-bar {
+  width: 1000px;
+  margin: 0 auto;
+  height: 40px;
+}
+
+#funkland {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444444;
+  font-size: 15px;
+  float: left;
+  margin-left: 14px;
+  margin-top: 10px;
+  padding-right: 10px;
+}
+
+.section3 {
+  border-left: 0.5px #cccccc solid;
+  height: 40%;
+  float: left;
+  margin-top: 10px;
+  margin-left: 0.5px;
+}
+
+#irefunk {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444444;
+  font-size: 15px;
+  float: left;
+  margin-left: 14px;
+  padding-right: 10px;
+}
+
+#scotfunk {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444444;
+  font-size: 15px;
+  float: left;
+  margin-left: 14px;
+  padding-right: 10px;
+}
+
+#xena {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444444;
+  font-size: 15px;
+  float: left;
+  margin-left: 14px;
+  padding-right: 10px;
+}
+
+#titan {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444444;
+  font-size: 15px;
+  float: left;
+  margin-left: 14px;
+  padding-right: 10px;
+}
+
+#ccity {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444444;
+  font-size: 15px;
+  float: left;
+  margin-left: 14px;
+}
+
+#lnews {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444444;
+  font-size: 15px;
+  float: left;
+  margin-left: 14px;
 }
