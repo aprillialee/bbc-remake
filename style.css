@@ -437,3 +437,125 @@ input {
   margin-top: -9px;
   margin-left: 18px;
 }
+
+#headline-container2 {
+  float: right;
+  margin-right: 105px;
+  margin-top: -280px;
+  width: 230px;
+  height: 280px;
+}
+
+#donaldtrump {
+  width: 230px;
+}
+
+#dheadline {
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  float: left;
+  margin-top: 10px;
+}
+
+#dheadline {
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  float: left;
+  margin-top: 10px;
+}
+
+#dtext {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  float: left;
+  margin-top: 8px;
+  color: #5b5b5b;
+}
+
+.clock {
+  width: 17px;
+  height: 17px;
+  margin-top: 13px;
+  float: left;
+}
+
+.hour {
+  color: #5b5b5b;
+  float: left;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 15px;
+  margin-left: 5px;
+  padding-right: 6px;
+}
+
+#merica {
+  color: black;
+  float: left;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 15px;
+  margin-left: 5px;
+}
+
+.hour-section {
+  border-left: 0.5px #cccccc solid;
+  height: 15px;
+  padding-left: 8px;
+  float: left;
+}
+#sub-container {
+  margin-top: 20px;
+  margin-left: 145px;
+  width: 1150px;
+  height: 280px;
+}
+
+.sub {
+  width: 265px;
+  height: 280px;
+  z-index: 1;
+  float: left;
+  padding-right: 15px;
+}
+
+#bass {
+  width: 265px;
+}
+
+.hline {
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  float: left;
+  margin-top: 10px;
+}
+
+.htext {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  float: left;
+  margin-top: 8px;
+  color: #5b5b5b;
+}
+
+#country {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  float: left;
+  margin-left: 5px;
+  margin-top: 15px;
+  color: black;
+}
+
+#forage {
+  width: 265px;
+  height: 150px;
+}
+
+#bwoman {
+  width: 235px;
+  height: 150px;
+}
